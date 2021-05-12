@@ -1,2 +1,4 @@
 # hello-world
-Getting started, projects, parameters expansion...
+Hello Everyone!
+
+Just a dude looking to learn how to code!
